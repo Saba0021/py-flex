@@ -1,5 +1,3 @@
-# py-flex
-
 # Unleash Your Inner Python Bragging Rights with py-flex
 
 Tired of struggling with Python data structures and algorithms? Feeling like your coding skills are stuck in the shallow end? py-flex is here to turn you into a Python pro so fluent you'll be practically flexing at the gym.
